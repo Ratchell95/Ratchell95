@@ -1,24 +1,28 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Ratchell&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" height="45" alt="Android"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL Server"/>
 </p>
 
 # Hola, soy Ratchell 👋
 
-🎓 Estudiante de Computación e Informática – IDAT (6to ciclo)  
-🎓 Estudiante de Ingeniería de Desarrollo de Software – UTP  
+* Estudiante de Computación e Informática – IDAT (6to ciclo)  
+* Estudiante de Ingeniería de Desarrollo de Software – UTP  
 
-💻 Enfocada en Backend con Java y Spring Boot  
-🚀 Interesada en el desarrollo de APIs REST y aplicaciones web  
+- Enfocada en Backend con Java y Spring Boot  
+- Interesada en el desarrollo de APIs REST y aplicaciones web  
 
----
 
 ## Sobre mí
 -  En constante aprendizaje en desarrollo de software  
 -  Desarrollo de APIs REST con Spring Boot  
 - Interés en Backend y fundamentos de arquitectura  
 -  Buscando crecer profesionalmente en tecnología  
-
----
 
 ##  Tecnologías
 
