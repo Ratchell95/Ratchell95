@@ -18,13 +18,13 @@
 - Interesada en el desarrollo de APIs REST y aplicaciones web  
 
 
-## Sobre mí
+ Sobre mí
 -  En constante aprendizaje en desarrollo de software  
 -  Desarrollo de APIs REST con Spring Boot  
 - Interés en Backend y fundamentos de arquitectura  
 -  Buscando crecer profesionalmente en tecnología  
 
-##  Tecnologías
+Tecnologías
 
 ### Lenguajes
 <p align="left">
