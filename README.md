@@ -3,11 +3,11 @@
 🎓 Estudiante de Computación e Informática – IDAT (6to ciclo) /  
 🎓 Estudiante de Ingeniería de Desarrollo de Software – UTP  
 
+
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Logo_IDAT.png" alt="IDAT" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_UTP_Peru.png" alt="UTP" height="40"/>
 </p>
-
 💻 Enfocada en Backend con Java y Spring Boot  
 🚀 Interesada en el desarrollo de APIs REST y aplicaciones web  
 
