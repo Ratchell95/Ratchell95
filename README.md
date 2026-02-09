@@ -24,7 +24,7 @@
 - Interés en Backend y fundamentos de arquitectura  
 -  Buscando crecer profesionalmente en tecnología  
 
-#### Tecnologías
+### Tecnologías:
 
 ### Lenguajes
 <p align="left">
